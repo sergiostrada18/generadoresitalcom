@@ -1,0 +1,34 @@
+{
+    "tareas":[
+        {
+            "title":"Generador 1",
+            "responsable": "Sergio",
+            "Folio":"42352",
+            "Semana":"23",
+            "Año":"2018",
+            "Contratista":"Ceja",
+            "Fecha":"03/06/2018",
+            "Status":"OK"
+        },
+         {
+            "title":"Generador 2",
+            "responsable": "Nahomi",
+            "Folio":"45622",
+            "Semana":"23",
+             "Año":"2018",
+             "Contratista":"Montoya",
+            "Fecha":"02/06/2018",
+            "Status":"OK"
+        },
+         {
+            "title":"Generador 3",
+            "responsable": "Nahomi",
+            "Folio":"45532",
+            "Semana":"23",
+             "Año":"2018",
+             "Contratista":"Jon",
+            "Fecha":"05/06/2018",
+            "Status":"OK"
+        }
+    ]
+}
